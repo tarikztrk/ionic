@@ -27,7 +27,7 @@
     "@ionic/pro": "2.0.4",
     "angularfire2": "^4.0.0-rc.1",
     "cordova-android": "8.0.0",
-    "cordova-plugin-ionic-webview": "1.2.1",
+    "cordova-plugin-ionic-webview": "2.2.0",
     "core-js": "^2.5.4",
     "firebase": "^4.2.0",
     "font-awesome": "^4.7.0",
